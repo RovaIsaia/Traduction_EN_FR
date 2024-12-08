@@ -1,3 +1,7 @@
+## Auteur
+- **Nom :** [Andriamamy Rova Isaia]
+- **E-mail :** [Isaiapix@gmail.com]
+- 
 # Projet de Traduction Anglais-Français avec Gradio et Transformers
 
 Ce projet utilise **Gradio** et **Transformers** pour créer une interface de traduction automatique de texte de l'anglais vers le français. Il s'appuie sur le modèle pré-entrainé `t5-base` de Hugging Face pour effectuer la traduction.
