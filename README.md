@@ -25,3 +25,14 @@ Pour faire fonctionner ce projet en local, vous devez d'abord cloner ce dépôt 
    ```bash
    git clone https://github.com/RovaIsaia/Translation_EN_FR.git
    cd Translation_EN_FR
+
+2. **Installez les dépendances :**
+
+   ```bash
+   pip install -r requirements.txt
+
+3. **Lancez l'application :**
+
+   ```bash
+   python app.py
+   
